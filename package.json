@@ -1,11 +1,11 @@
 {
   "name": "@palmabit/strapi-app-version",
-  "version": "0.1.0",
-  "description": "Plugin to show the app versione from the package.json of the Strapi project",
+  "version": "1.0.0",
+  "description": "Show the app version from package.json",
   "strapi": {
     "name": "strapi-app-version",
-    "displayName": "App version",
-    "description": "Plugin to show the app versione from the package.json of the Strapi project",
+    "displayName": "App Version",
+    "description": "Show the app version from package.json",
     "kind": "plugin"
   },
   "repository": {

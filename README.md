@@ -1,3 +1,21 @@
 # Strapi plugin app-version
 
-The plugin shows the app version from the package.json of the Strapi app.
+Simple plugin for Strapi 4 to show the app version from package.json in the Settings page.
+
+<img src="image.png" />
+
+## Installation
+
+```sh
+npm install @palmabit/strapi-app-version
+```
+
+or
+
+```sh
+yarn add @palmabit/strapi-app-version
+```
+
+## Author
+
+[Palmabit.com](https://www.palmabit.com)
