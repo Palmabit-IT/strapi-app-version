@@ -1,6 +1,6 @@
 {
   "name": "@palmabit/strapi-app-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show the app version from package.json",
   "strapi": {
     "name": "strapi-app-version",
