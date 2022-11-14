@@ -1,6 +1,6 @@
 {
   "name": "@palmabit/strapi-app-version",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Show the app version from package.json",
   "strapi": {
     "name": "strapi-app-version",
@@ -16,7 +16,9 @@
     "strapi",
     "version"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "app-root-path": "^3.1.0"
+  },
   "peerDependencies": {
     "@strapi/strapi": "^4.0.0"
   },
