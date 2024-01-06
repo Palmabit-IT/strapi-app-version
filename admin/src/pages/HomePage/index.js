@@ -22,7 +22,7 @@ const HomePage = () => {
         />
       </Main>
       <ContentLayout>
-        <EmptyStateLayout icon={<div />} content={`App version ${packageJson.version}`} />
+        <EmptyStateLayout icon={<div />} content={`App version ${packageJson.version || '---'}`} />
       </ContentLayout>
     </Layout>
   );
